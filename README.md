@@ -1,4 +1,4 @@
-# Datacamp Machine-Learning-with-Apache-Spark 2019
+# Datacamp Machine Learning with Apache Spark 2019
 This is about learning Machine Learning with Apache Spark 2019 courses in DataCamp. All the answers given written by myself
 
 
